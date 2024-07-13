@@ -5,13 +5,4 @@ The implied process that produced these data involves the World and context wher
 
 Even though the individual sentences and paragraphs have meaning by themselves the presentation of them as a whole 'text' is an event in its own right and has a meaning of the composition of individual sentences, which is not equivalent to the presentation of a set of homogeneous and independent 'examples'.
 
-{% include lib/mathjax.html %}
-
-$$
-  \Huge
-  \begin{align*}
-  d &\mid b \\
-  \hline
-  q &\mid p
-  \end{align*}
-$$
+[Page 1](./pages/page1)
