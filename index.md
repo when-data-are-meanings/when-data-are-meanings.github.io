@@ -1,4 +1,3 @@
-# When data are meanings.
 Adaptation of algorithms to data that consists of meaningful sentences is a new class of problems, that should be fully understood as such.
 
 The implied process that produced these data involves the World and context where the speaker resides, the speaker's volition, the listener's volition and context at the time of comprehension, as well as the constructs and words of the language itself serving as an intermedium, with 'meaning' as an event of the interaction among all these components.
