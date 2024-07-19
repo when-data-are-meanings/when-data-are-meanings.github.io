@@ -1,3 +1,7 @@
+---
+layout: page
+title: MathJax formulas
+---
 {% include lib/mathjax.html %}
 
 $$
